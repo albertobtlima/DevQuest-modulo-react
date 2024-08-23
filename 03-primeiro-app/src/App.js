@@ -8,9 +8,18 @@ function App() {
       <Button />
       <Button />
 
-      <Card title="Titulo card 01"/>
-      <Card title="Titulo card 02"/>
-      <Card title="Titulo card 03"/>
+      <Card>
+        <h3>Titulo card 01</h3>
+        <p>esse é um texto do card</p>
+      </Card>
+      <Card>
+        <h3>Titulo card 02</h3>
+        <p>esse é um texto do card</p>
+      </Card>
+      <Card>
+        <h3>Titulo card 03</h3>
+        <p>esse é um texto do card</p>
+      </Card>
     </>
   );
 }
