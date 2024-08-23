@@ -5,7 +5,7 @@ import Card from "./components/card/card.js";
 function App() {
   return (
     <>
-      <Button />
+      <Button label="Baixar CV"/>
       <Button />
 
       <Card>
